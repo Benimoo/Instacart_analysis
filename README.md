@@ -1,5 +1,5 @@
-# Python Portfolio
-This will contain Python scripts from all my projects sofar
+# Portfolio
+Project : Business Analysis for Instacart
 
 ## Introduction
 The online grocery store company Instacart operates through an app. I used the data sets provided by the company to uncover different sales patterns by conducting exploratory analysis to gain important insights. According to the insights, I was able to create suggestion strategies how Instacart can optimzize their marketing strategies based on provided criterias.

@@ -35,6 +35,5 @@ profiles? Consider the price of orders, the frequency of orders, the products cu
 Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle 
 
 ## Results
-Results is provided in an Excel format report
-
-[IC_Final Analysis Report_Roeser.xlsx](https://github.com/Benimoo/Python_scripts/files/14509638/IC_Final.Analysis.Report_Roeser.xlsx)
+Results is provided in an Excel format report. 
+Download it in the "Sent to client" folder

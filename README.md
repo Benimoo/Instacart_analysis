@@ -1,4 +1,4 @@
-# Python_scripts
+# Python Portfolio
 This will contain Python scripts from all my projects sofar
 
 ## Introduction

@@ -31,8 +31,7 @@ Age? Income? Certain types of goods? Family status?
 profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 ## Data set
-“The Instacart Online Grocery Shopping
-Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle 
+“The Instacart Online Grocery Shopping Dataset 2017”,via [Kaggle](www.instacart.com/datasets/grocery-shopping-2017)
 
 ## Results
 Results is provided in an **Excel report**. 

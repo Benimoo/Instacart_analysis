@@ -1,5 +1,5 @@
 # Portfolio
-Project : Business Analysis for Instacart
+**Project** : Business Analysis for Instacart
 
 ## Introduction
 The online grocery store company Instacart operates through an app. I used the data sets provided by the company to uncover different sales patterns by conducting exploratory analysis to gain important insights. According to the insights, I was able to create suggestion strategies how Instacart can optimzize their marketing strategies based on provided criterias.
@@ -35,5 +35,5 @@ profiles? Consider the price of orders, the frequency of orders, the products cu
 Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle 
 
 ## Results
-Results is provided in an Excel format report. 
-Download it in the "Sent to client" folder
+Results is provided in an **Excel report**. 
+Access via the "**Report**" folder.
